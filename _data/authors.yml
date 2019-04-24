@@ -1,0 +1,23 @@
+---
+author: a-little-cat
+---
+## => Author and Social
+##############################
+a-little-cat:
+  type      : person # "person" (default), "organization"
+  name      : a-little-cat
+  url       :
+  avatar    : assets/avatar.jpg # path or url of avatar image (square)
+  bio       : I am a-little-cat
+  email     : 83169158@qq.com
+  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
+  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
+  telegram  : thefirstcat # "user_name" the last part of your profile url, e.g. https://t.me/user_name
+  medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
+  zhihu     : thethirdcat # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
+  douban    : thefirstcat # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
+  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  github    : a-little-cat # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
