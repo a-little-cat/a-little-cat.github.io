@@ -14,3 +14,6 @@ Windows Registry Editor Version 5.00
 "{02DB545A-3E20-46DE-83A5-1329B1E88B6B}"="WindowsTerminal"
 
 ```
+
+
+https://github.com/microsoft/terminal/issues/7008
